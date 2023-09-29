@@ -1,0 +1,15 @@
+\documentclass{article}
+\begin{document}
+  \section{Problem 1}
+    Data structures describes the ways to store and use data so that you can make efficient programs.\\\\
+    Algorithms describes ways to efficiently process data from an input to an output.
+    \begin{align}
+  
+    \end{align}
+  \section{Problem 2}
+    Proof: We want to show that \exists constant $c>0,n_0>0$ s.t. \forall $n>n_0,0\le3n^2+n\sqrt{n}\lec*n^2$
+    \begin{align}
+  
+    \end{align}
+  
+\end{document}
